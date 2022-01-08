@@ -1,0 +1,7 @@
+C:\Users\esp11\source\repos\testGitHub\bin\Debug\testGitHub.exe.config
+C:\Users\esp11\source\repos\testGitHub\bin\Debug\testGitHub.exe
+C:\Users\esp11\source\repos\testGitHub\bin\Debug\testGitHub.pdb
+C:\Users\esp11\source\repos\testGitHub\obj\Debug\testGitHub.csproj.AssemblyReference.cache
+C:\Users\esp11\source\repos\testGitHub\obj\Debug\testGitHub.csproj.CoreCompileInputs.cache
+C:\Users\esp11\source\repos\testGitHub\obj\Debug\testGitHub.exe
+C:\Users\esp11\source\repos\testGitHub\obj\Debug\testGitHub.pdb
